@@ -63,3 +63,4 @@ E:\------c#\Student\Student\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\Sys
 E:\------c#\Student\Student\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\------c#\Student\Student\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 E:\------c#\Student\Student\obj\Debug\net6.0\Student.csproj.Up2Date
+E:\------c#\Student\Student\obj\Debug\net6.0\Student.sourcelink.json
